@@ -187,7 +187,7 @@ requests==2.34.2
     # via
     #   pygithub
     #   sphinx
-rocm-docs-core[llms]==1.38.0
+rocm-docs-core[llms]==1.39.0
     # via -r requirements.in
 roman-numerals==4.1.0
     # via sphinx
@@ -217,7 +217,6 @@ sphinx==9.1.0
     #   sphinx-markdown-builder
     #   sphinx-multitoc-numbering
     #   sphinx-notfound-page
-    #   sphinx-reredirects
 sphinx-book-theme==1.1.4
     # via rocm-docs-core
 sphinx-copybutton==0.5.2
@@ -232,8 +231,6 @@ sphinx-multitoc-numbering==0.1.3
     # via sphinx-external-toc
 sphinx-notfound-page==1.1.0
     # via rocm-docs-core
-sphinx-reredirects==1.1.0
-    # via -r requirements.in
 sphinxcontrib-applehelp==2.0.0
     # via sphinx
 sphinxcontrib-devhelp==2.0.0
