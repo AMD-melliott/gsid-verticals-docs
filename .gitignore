@@ -1,0 +1,15 @@
+.venv
+.vscode
+build
+.playwright-mcp/
+
+# documentation artifacts
+_build/
+_images/
+_static/
+!docs/_static/
+_templates/
+_toc.yml
+docBin/
+_doxygen/
+_readthedocs/

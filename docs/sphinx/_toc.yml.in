@@ -1,0 +1,69 @@
+root: index.md
+subtrees:
+
+- caption: Industries & Verticals
+  entries:
+    - file: vision/index.md
+      title: Computer Vision
+      subtrees:
+        - entries:
+          - file: vision/ai.md
+            title: Models and Applications
+          - file: vision/decode.md
+            title: Image and Video Decoding
+          - file: vision/preprocess.md
+            title: Image Processing
+    - file: data-science/index.md
+      title: Data Science
+      subtrees:
+        - entries:
+          - file: data-science/hipDF.md
+            title: hipDF
+          - file: data-science/hipGRAPH.md
+            title: hipGRAPH
+          - file: data-science/hipVS.md
+            title: hipVS
+          - file: data-science/hipMM.md
+            title: hipMM
+          - file: data-science/hipRAFT.md
+            title: hipRAFT
+          - file: data-science/ROCmDS-Blogs.md
+            title: ROCm-DS Blogs
+    - file: life-science/index.md
+      title: Life Science
+      subtrees:
+        - entries:
+          - file: life-science/hipCIM.md
+            title: hipCIM
+          - file: life-science/MONAI.md
+            title: MONAI
+          - file: life-science/ROCmLS-Blogs.md
+            title: ROCm-LS Blogs
+    - file: finance/index.md
+      title: Finance
+      subtrees:
+        - entries:
+          - file: finance/xgboost.md
+            title: XGBoost
+          - file: finance/lightgbm.md
+            title: LightGBM
+          - file: finance/thundergbm.md
+            title: ThunderGBM
+          - file: finance/finance-blogs.md
+            title: ROCm-Finance Blogs
+    - file: isv-apps/index.md
+      title: Simulation & Modeling Apps
+      subtrees:
+        - entries:
+          - file: isv-apps/ansys-fluent.md
+            title: Ansys Fluent
+          - file: isv-apps/ansys-mechanical.md
+            title: Ansys Mechanical
+          - file: isv-apps/cadence-fidelity.md
+            title: Cadence Fidelity LES Solver
+          - file: isv-apps/devito.md
+            title: Devito Codes DevitoPRO
+          - file: isv-apps/siemens.md
+            title: Siemens Simcenter STAR-CCM+
+          - file: isv-apps/stone-ridge.md
+            title: Stone Ridge Technology ECHELON
