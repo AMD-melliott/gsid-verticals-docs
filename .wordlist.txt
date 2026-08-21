@@ -36,3 +36,10 @@ ThunderGBM
 ROCm's
 Redhat
 SRIOV
+DS
+FEA
+microstructure
+transformative
+minimap
+integrations
+toolkits
