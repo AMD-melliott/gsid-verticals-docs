@@ -15,104 +15,58 @@ Behind ROCm-DS lies a passionate, driven team dedicated to continuously expandin
 have everything you need to push the boundaries of data science. Get ready to revolutionize your data processing applications
 and unleash new possibilities with ROCm-DS.
 
-:::::{grid} 2 2 2 2
+<div class="id-deck">
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/hipDF.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./hipDF.html class="card-header-link">
-  <h2 class="card-header">hipDF</h2>
+<div class="id-grid">
+
+<a class="id-card" href="hipDF.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></svg></span>
+  <span class="id-card-title">hipDF</span>
+  <span class="id-card-desc">GPU Accelerated DataFrames to enhance your data manipulation and analysis tasks with AMD Instinct GPUs.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> GPU Accelerated DataFrames to enhance your data manipulation and analysis tasks with AMD Instinct GPUs.
-.</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/hipGRAPH.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./hipGRAPH.html class="card-header-link">
-  <h2 class="card-header">hipGRAPH</h2>
+<a class="id-card" href="hipGRAPH.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg></span>
+  <span class="id-card-title">hipGRAPH</span>
+  <span class="id-card-desc">Create, manipulate, and analyze complex networks and graphs on AMD Instinct GPUs.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> Create, manipulate, and analyze complex networks and graphs on AMD Instinct GPUs.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/hipVS.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./hipVS.html class="card-header-link">
-  <h2 class="card-header">hipVS</h2>
+<a class="id-card" href="hipVS.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></span>
+  <span class="id-card-title">hipVS</span>
+  <span class="id-card-desc">Accelerate a variety of vector search operations on AMD Instinct GPUs.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> Accelerate a variety of vector search operations on AMD Instinct GPUs.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/hipMM.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./hipMM.html class="card-header-link">
-  <h2 class="card-header">hipMM</h2>
+<a class="id-card" href="hipMM.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 2v2M15 2v2M9 20v2M15 20v2M20 9h2M20 14h2M2 9h2M2 14h2"/></svg></span>
+  <span class="id-card-title">hipMM</span>
+  <span class="id-card-desc">Advanced memory management utilities for the various ROCm-DS libraries.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> Advanced memory management utilities for the various ROCm-DS libraries.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/hipRAFT.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./hipRAFT.html class="card-header-link">
-  <h2 class="card-header">hipRAFT</h2>
+<a class="id-card" href="hipRAFT.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83Z"/><path d="m22 17.65-9.17 4.16a2 2 0 0 1-1.66 0L2 17.65"/><path d="m22 12.65-9.17 4.16a2 2 0 0 1-1.66 0L2 12.65"/></svg></span>
+  <span class="id-card-title">hipRAFT</span>
+  <span class="id-card-desc">Fundamental algorithms and primitives used by the various ROCm-DS libraries.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> Fundamental algorithms and primitives used by the various ROCm-DS libraries.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/ROCm-DS.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href="https://github.com/rocm-ds" class="card-header-link">
-  <h2 class="card-header">Github</h2>
+<a class="id-card" href="https://github.com/rocm-ds">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="6" x2="6" y1="3" y2="15"/><circle cx="18" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M18 9a9 9 0 0 1-9 9"/></svg></span>
+  <span class="id-card-title">Github</span>
+  <span class="id-card-desc">View the source code for all ROCm-DS components on Github.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> View the source code for all ROCm-DS components on Github.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/ROCm-DS_Blogs.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./ROCmDS-Blogs.html class="card-header-link">
-  <h2 class="card-header">ROCm-DS Blogs</h2>
+<a class="id-card" href="ROCmDS-Blogs.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+  <span class="id-card-title">ROCm-DS Blogs</span>
+  <span class="id-card-desc">Browse blogs detailing how to accelerate your data science workloads on AMD Instinct GPUs.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> Browse blogs detailing how to accelerate your data science workloads on AMD Instinct GPUs.
-</p>
-::::
 
-:::::
+</div>
+</div>

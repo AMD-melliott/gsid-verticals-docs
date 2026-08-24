@@ -14,90 +14,51 @@ they arrived from the next generation, even on this week's cluster.
 For more information on ROCm-Finance, including comparisons, prerequisites, installation, and deep API
 reference, see the [ROCm-Finance documentation](https://rocm.docs.amd.com/projects/rocm-finance/en/latest/index.html).
 
-:::::{grid} 2 2 2 2
+<div class="id-deck">
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/finance-1.png
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./xgboost.html class="card-header-link">
-  <h2 class="card-header">XGBoost</h2>
+<div class="id-grid">
+
+<a class="id-card" href="xgboost.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg></span>
+  <span class="id-card-title">XGBoost</span>
+  <span class="id-card-desc">General-purpose GPU gradient boosting. Start here for high-performance workloads for data-intensive applications.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> General-purpose GPU gradient boosting. Start here for high-performance workloads for data-intensive applications.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/finance-2.png
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./lightgbm.html class="card-header-link">
-  <h2 class="card-header">LightGBM</h2>
+<a class="id-card" href="lightgbm.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg></span>
+  <span class="id-card-title">LightGBM</span>
+  <span class="id-card-desc">Leaf-wise training. Strong fit when sparsity abounds and dataset size drives the bottleneck.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> Leaf-wise training. Strong fit when sparsity abounds and dataset size drives the bottleneck.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/finance-3.png
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./thundergbm.html class="card-header-link">
-  <h2 class="card-header">ThunderGBM</h2>
+<a class="id-card" href="thundergbm.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3v18h18"/><path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/></svg></span>
+  <span class="id-card-title">ThunderGBM</span>
+  <span class="id-card-desc">GPU-oriented boosting for highly parallel, GPU-intensive training and simulation-style runs on high-dimensional datasets.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> GPU-oriented boosting for highly parallel, GPU-intensive training and simulation-style runs on high-dimensional datasets.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/finance-4.png
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href="https://github.com/ROCm/ROCm-Finance" class="card-header-link">
-  <h2 class="card-header">GitHub</h2>
+<a class="id-card" href="https://github.com/ROCm/ROCm-Finance">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="6" x2="6" y1="3" y2="15"/><circle cx="18" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M18 9a9 9 0 0 1-9 9"/></svg></span>
+  <span class="id-card-title">GitHub</span>
+  <span class="id-card-desc">Source for all ROCm-Finance libraries on GitHub.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> Source for all ROCm-Finance libraries on GitHub.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/finance-5.png
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href="https://github.com/ROCm/rocm-finance/tree/release/26.01/examples" class="card-header-link">
-  <h2 class="card-header">Examples</h2>
+<a class="id-card" href="https://github.com/ROCm/rocm-finance/tree/release/26.01/examples">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="4 17 10 11 4 5"/><line x1="12" x2="20" y1="19" y2="19"/></svg></span>
+  <span class="id-card-title">Examples</span>
+  <span class="id-card-desc">Runnable examples on GitHub to explore the code.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> Runnable examples on GitHub to explore the code.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/finance-6.png
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./finance-blogs.html class="card-header-link">
-  <h2 class="card-header">ROCm-Finance Blogs</h2>
+<a class="id-card" href="finance-blogs.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+  <span class="id-card-title">ROCm-Finance Blogs</span>
+  <span class="id-card-desc">Browse blogs detailing how to accelerate your finance workloads using gradient boosting on AMD Instinct GPUs.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> Browse blogs detailing how to accelerate your finance workloads using gradient boosting on AMD Instinct GPUs.
-</p>
-::::
 
-:::::
+</div>
+</div>

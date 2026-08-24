@@ -20,7 +20,7 @@ copyright = "Copyright (c) 2026 Advanced Micro Devices, Inc. All rights reserved
 html_copy_source = True
 html_theme = "rocm_docs_theme"
 html_theme_options = {
-    "flavor": "instinct",
+    "flavor": "instinct-design",
     "link_main_doc": True,
     "repository_url": "https://github.com/AMD-melliott/gsid-verticals-docs",
     "use_repository_button": True,

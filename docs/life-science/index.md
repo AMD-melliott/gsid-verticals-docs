@@ -12,76 +12,44 @@ Dive into a future where medical breakthroughs are accelerated with precision, a
 reach. With AMD's powerful Instinct GPUs backing your workloads, ROCm-LS empowers innovation that has the potential to change lives. Join the forefront of
 scientific innovation with ROCm-LS and realize the full potential of your research endeavors today!
 
-:::::{grid} 2 2 2 2
+<div class="id-deck">
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/hipCIM.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./hipCIM.html class="card-header-link">
-  <h2 class="card-header">hipCIM</h2>
+<div class="id-grid">
+
+<a class="id-card" href="hipCIM.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/></svg></span>
+  <span class="id-card-title">hipCIM</span>
+  <span class="id-card-desc">GPU Accelerated image processing and computer vision for multidimensional images on AMD Instinct™ GPUs.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> GPU Accelerated image processing and computer vision for multidimensional images on AMD Instinct™ GPUs.
-.</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/MONAI.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href=./MONAI.html class="card-header-link">
-  <h2 class="card-header">MONAI</h2>
+<a class="id-card" href="MONAI.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></span>
+  <span class="id-card-title">MONAI</span>
+  <span class="id-card-desc">AI and deep learning for medical imaging use cases on AMD Instinct™ GPUs.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> AI and deep learning for medical imaging use cases on AMD Instinct™ GPUs.
-.</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/ROCm-LS.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href="https://github.com/rocm-ls" class="card-header-link">
-  <h2 class="card-header">Github</h2>
+<a class="id-card" href="https://github.com/rocm-ls">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="6" x2="6" y1="3" y2="15"/><circle cx="18" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M18 9a9 9 0 0 1-9 9"/></svg></span>
+  <span class="id-card-title">Github</span>
+  <span class="id-card-desc">View the source code for all ROCm-LS components on Github.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> View the source code for all ROCm-LS components on Github.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/ROCm-LS_Docs.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href="https://rocm.docs.amd.com/projects/rocm-ls/en/latest/" class="card-header-link">
-  <h2 class="card-header">ROCm-LS Documentation</h2>
+<a class="id-card" href="https://rocm.docs.amd.com/projects/rocm-ls/en/latest/">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 7v14"/><path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/></svg></span>
+  <span class="id-card-title">ROCm-LS Documentation</span>
+  <span class="id-card-desc">View the latest ROCm-LS documentation, including installation instructions and API reference guides, on ROCm Docs.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> View the latest ROCm-LS documentation, including installation instructions and API reference guides, on ROCm Docs.
-</p>
-::::
 
-::::{grid-item-card}
-:padding: 1
-:img-top: ../images/ROCm-LS_Blogs.jpg
-:class-img-top: small-sd-card-img-top
-:class-body: small-sd-card
-:class: small-sd-card
-+++
-<a href="./ROCmLS-Blogs.html" class="card-header-link">
-  <h2 class="card-header">ROCm-LS Blogs</h2>
+<a class="id-card" href="ROCmLS-Blogs.html">
+  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+  <span class="id-card-title">ROCm-LS Blogs</span>
+  <span class="id-card-desc">Browse through blogs related to ROCm-LS and its individual components.</span>
+  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
-<p class="paragraph"> Browse through blogs related to ROCm-LS and its individual components.
-</p>
-::::
 
-:::::
+</div>
+</div>
