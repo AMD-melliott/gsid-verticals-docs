@@ -28,7 +28,7 @@ subtrees:
           - file: data-science/hipRAFT.md
             title: hipRAFT
           - file: data-science/ROCmDS-Blogs.md
-            title: ROCm-DS Blogs
+            title: AMD Data Science Blogs
     - file: life-science/index.md
       title: Life Science
       subtrees:
@@ -38,7 +38,7 @@ subtrees:
           - file: life-science/MONAI.md
             title: MONAI
           - file: life-science/ROCmLS-Blogs.md
-            title: ROCm-LS Blogs
+            title: AMD Life Science Blogs
     - file: finance/index.md
       title: Finance
       subtrees:
@@ -50,7 +50,7 @@ subtrees:
           - file: finance/thundergbm.md
             title: ThunderGBM
           - file: finance/finance-blogs.md
-            title: ROCm-Finance Blogs
+            title: AMD Finance Blogs
     - file: isv-apps/index.md
       title: Simulation & Modeling Apps
       subtrees:
