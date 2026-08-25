@@ -35,6 +35,6 @@ Both checks run automatically on every pull request; please fix any reported iss
 
 ## Reporting issues
 
-If you find a problem with the documentation but aren't able to submit a fix yourself, please [open an issue](../../issues) describing the page, the problem, and (if applicable) the expected content.
+If you find a problem with the documentation but aren't able to submit a fix yourself, please [open an issue](https://github.com/ROCm/gsid-verticals-docs/issues) describing the page, the problem, and (if applicable) the expected content.
 
 For security-related concerns, see [SECURITY.md](SECURITY.md) instead of filing a public issue.

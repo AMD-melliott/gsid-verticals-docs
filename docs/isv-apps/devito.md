@@ -18,7 +18,6 @@ DevitoPRO is a domain-specific language (DSL) and code generation framework desi
 
 - [AMD Drives Leadership Performance and Energy Efficiency in Supercomputing](https://www.amd.com/en/newsroom/press-releases/2022-11-15-amd-drives-leadership-performance-and-energy-effic.html)
 - [Devito revolutionizes high-performance computing for the oil and gas industry with AMD](https://community.amd.com/t5/instinct-accelerators/devito-revolutionizes-high-performance-computing-for-the-oil-and/ba-p/625392)
-- [DevitoPRO getting HIP with AMD Instinct™ | Devito Codes](https://www.devitocodes.com/instinct)
 
 ## Technical Documentation
 
