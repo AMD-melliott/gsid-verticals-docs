@@ -1,18 +1,18 @@
-# ROCm-Finance: ROCm toolkit for finance
+# AMD Finance Toolkit
 
-ROCm-Finance pulls the trajectory of tomorrow into today: an open toolkit on the [ROCm](https://rocm.docs.amd.com/) stack that
+AMD Finance pulls the trajectory of tomorrow into today: an open toolkit on the [ROCm](https://rocm.docs.amd.com/) stack that
 delivers GPU-native gradient-boosting stacks that the industry already trusts. XGBoost,
 LightGBM, and ThunderGBM, tuned for [AMD Instinct](https://www.amd.com/en/products/accelerators/instinct.html)
 accelerators, so training, scoring, and simulation work land closer to real time than the CPU-era
 baselines could achieve.
 
-ROCm-Finance collapses the distance between signal and decision. The same workloads that once
+AMD Finance collapses the distance between signal and decision. The same workloads that once
 queued overnight now run in minutes. Risk, fraud detection, forecasting, and simulation pipelines step
-into the high-bandwidth GPU computing ROCm was built to serve. ROCm-Finance provides production-oriented kernels, memory paths, and scaling behavior so your boosting jobs feel like
+into the high-bandwidth GPU computing ROCm was built to serve. AMD Finance provides production-oriented kernels, memory paths, and scaling behavior so your boosting jobs feel like
 they arrived from the next generation, even on this week's cluster.
 
-For more information on ROCm-Finance, including comparisons, prerequisites, installation, and deep API
-reference, see the [ROCm-Finance documentation](https://rocm.docs.amd.com/projects/rocm-finance/en/latest/index.html).
+For more information on AMD Finance, including comparisons, prerequisites, installation, and deep API
+reference, see the [AMD Finance documentation](https://rocm.docs.amd.com/projects/rocm-finance/en/latest/index.html).
 
 <div class="id-deck">
 
@@ -42,7 +42,7 @@ reference, see the [ROCm-Finance documentation](https://rocm.docs.amd.com/projec
 <a class="id-card" href="https://github.com/ROCm/ROCm-Finance">
   <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="6" x2="6" y1="3" y2="15"/><circle cx="18" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M18 9a9 9 0 0 1-9 9"/></svg></span>
   <span class="id-card-title">GitHub</span>
-  <span class="id-card-desc">Source for all ROCm-Finance libraries on GitHub.</span>
+  <span class="id-card-desc">Source for all AMD Finance libraries on GitHub.</span>
   <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
 
@@ -55,7 +55,7 @@ reference, see the [ROCm-Finance documentation](https://rocm.docs.amd.com/projec
 
 <a class="id-card" href="finance-blogs.html">
   <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
-  <span class="id-card-title">ROCm-Finance Blogs</span>
+  <span class="id-card-title">AMD Finance Blogs</span>
   <span class="id-card-desc">Browse blogs detailing how to accelerate your finance workloads using gradient boosting on AMD Instinct GPUs.</span>
   <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>

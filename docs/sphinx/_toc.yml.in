@@ -3,18 +3,8 @@ subtrees:
 
 - caption: Industries & Verticals
   entries:
-    - file: vision/index.md
-      title: Computer Vision
-      subtrees:
-        - entries:
-          - file: vision/ai.md
-            title: Models and Applications
-          - file: vision/decode.md
-            title: Image and Video Decoding
-          - file: vision/preprocess.md
-            title: Image Processing
     - file: data-science/index.md
-      title: Data Science
+      title: AMD Data Science
       subtrees:
         - entries:
           - file: data-science/hipDF.md
@@ -30,7 +20,7 @@ subtrees:
           - file: data-science/ROCmDS-Blogs.md
             title: AMD Data Science Blogs
     - file: life-science/index.md
-      title: Life Science
+      title: AMD Life Science
       subtrees:
         - entries:
           - file: life-science/hipCIM.md
@@ -40,7 +30,7 @@ subtrees:
           - file: life-science/ROCmLS-Blogs.md
             title: AMD Life Science Blogs
     - file: finance/index.md
-      title: Finance
+      title: AMD Finance
       subtrees:
         - entries:
           - file: finance/xgboost.md
@@ -52,7 +42,7 @@ subtrees:
           - file: finance/finance-blogs.md
             title: AMD Finance Blogs
     - file: isv-apps/index.md
-      title: Simulation & Modeling Apps
+      title: AMD Simulation
       subtrees:
         - entries:
           - file: isv-apps/ansys-fluent.md
@@ -67,3 +57,13 @@ subtrees:
             title: Siemens Simcenter STAR-CCM+
           - file: isv-apps/stone-ridge.md
             title: Stone Ridge Technology ECHELON
+    - file: vision/index.md
+      title: Computer Vision
+      subtrees:
+        - entries:
+          - file: vision/ai.md
+            title: Models and Applications
+          - file: vision/decode.md
+            title: Image and Video Decoding
+          - file: vision/preprocess.md
+            title: Image Processing
