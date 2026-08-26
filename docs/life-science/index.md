@@ -1,6 +1,6 @@
 # AMD Life Science Toolkit
 
-Unlock the transformative power of the AMD Life Science Toolkit, an innovative and robust open-source toolkit built on top of the powerful ROCm™
+Unlock the transformative power of the [AMD Life Science Toolkit](https://rocm.docs.amd.com/projects/rocm-ls/en/latest/index.html), an innovative and robust open-source toolkit built on top of the powerful ROCm™
 platform. Designed with the medical and life sciences fields in mind, AMD Life Science maximizes the computational capabilities of AMD Instinct™ GPUs, enabling you
 to execute both new and existing workloads with exceptional speed and efficiency.
 

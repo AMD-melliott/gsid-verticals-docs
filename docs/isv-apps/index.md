@@ -1,5 +1,7 @@
 # Simulation & Modeling Apps
 
+AMD Simulation brings validated ISV simulation and modeling applications — including Ansys, Siemens, Cadence, and Stone Ridge Technology — to [AMD Instinct](https://www.amd.com/en/products/accelerators/instinct.html) GPUs. For more information, see the [AMD Simulation documentation](https://rocm.docs.amd.com/projects/rocm-simulation/en/latest/index.html).
+
 <div class="id-deck">
 
 <div class="id-grid">
