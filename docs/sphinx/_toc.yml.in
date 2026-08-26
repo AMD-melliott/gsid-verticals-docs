@@ -17,6 +17,8 @@ subtrees:
             title: hipMM
           - file: data-science/hipRAFT.md
             title: hipRAFT
+          - url: https://rocm.docs.amd.com/projects/rocm-ds/en/latest/index.html
+            title: AMD Data Science Documentation
           - file: data-science/ROCmDS-Blogs.md
             title: AMD Data Science Blogs
     - file: life-science/index.md
@@ -25,6 +27,8 @@ subtrees:
         - entries:
           - file: life-science/hipCIM.md
             title: hipCIM
+          - url: https://rocm.docs.amd.com/projects/rocm-ls/en/latest/index.html
+            title: AMD Life Science Documentation
           - file: life-science/ROCmLS-Blogs.md
             title: AMD Life Science Blogs
     - file: finance/index.md
@@ -37,6 +41,8 @@ subtrees:
             title: LightGBM
           - file: finance/thundergbm.md
             title: ThunderGBM
+          - url: https://rocm.docs.amd.com/projects/rocm-finance/en/latest/index.html
+            title: AMD Finance Documentation
           - file: finance/finance-blogs.md
             title: AMD Finance Blogs
     - file: isv-apps/index.md
@@ -53,6 +59,8 @@ subtrees:
             title: Siemens Simcenter STAR-CCM+
           - file: isv-apps/stone-ridge.md
             title: Stone Ridge Technology ECHELON
+          - url: https://rocm.docs.amd.com/projects/rocm-simulation/en/latest/index.html
+            title: AMD Simulation Documentation
     - file: vision/index.md
       title: Computer Vision
       subtrees:
