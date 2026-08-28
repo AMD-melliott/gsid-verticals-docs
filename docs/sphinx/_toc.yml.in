@@ -17,6 +17,10 @@ subtrees:
             title: hipMM
           - file: data-science/hipRAFT.md
             title: hipRAFT
+          - file: data-science/dask-hip.md
+            title: dask-hip
+          - file: data-science/hip-ucxx.md
+            title: hip-ucxx
           - url: https://rocm.docs.amd.com/projects/rocm-ds/en/latest/index.html
             title: AMD Data Science Documentation
           - file: data-science/ROCmDS-Blogs.md
@@ -27,6 +31,8 @@ subtrees:
         - entries:
           - file: life-science/hipCIM.md
             title: hipCIM
+          - file: life-science/MONAI.md
+            title: MONAI
           - url: https://rocm.docs.amd.com/projects/rocm-ls/en/latest/index.html
             title: AMD Life Science Documentation
           - file: life-science/ROCmLS-Blogs.md
