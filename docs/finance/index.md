@@ -39,14 +39,7 @@ reference, see the [AMD Finance documentation](https://rocm.docs.amd.com/project
   <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
 </a>
 
-<a class="id-card" href="https://github.com/ROCm/ROCm-Finance">
-  <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="6" x2="6" y1="3" y2="15"/><circle cx="18" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M18 9a9 9 0 0 1-9 9"/></svg></span>
-  <span class="id-card-title">GitHub</span>
-  <span class="id-card-desc">Source for all AMD Finance libraries on GitHub.</span>
-  <span class="id-card-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
-</a>
-
-<a class="id-card" href="https://github.com/ROCm/rocm-finance/tree/release/26.01/examples">
+<a class="id-card" href="https://github.com/AMD-Ecosystem/rocm-finance/tree/release/26.01/examples">
   <span class="id-card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="4 17 10 11 4 5"/><line x1="12" x2="20" y1="19" y2="19"/></svg></span>
   <span class="id-card-title">Examples</span>
   <span class="id-card-desc">Runnable examples on GitHub to explore the code.</span>
